@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FKF.SP"]
+	path = FKF.SP
+	url = https://github.com/tomaspinall/fkf.sp
+	shallow = true
+	registered = true
