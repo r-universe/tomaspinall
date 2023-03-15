@@ -8,3 +8,13 @@
 	url = https://github.com/tomaspinall/fkf.sp
 	shallow = true
 	registered = true
+[submodule "LSMRealOptions"]
+	path = LSMRealOptions
+	url = https://github.com/tomaspinall/lsmrealoptions
+	shallow = true
+	registered = true
+[submodule "NFCP"]
+	path = NFCP
+	url = https://github.com/tomaspinall/nfcp
+	shallow = true
+	registered = true

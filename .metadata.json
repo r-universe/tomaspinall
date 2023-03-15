@@ -2,5 +2,13 @@
   {
     "package": "FKF.SP",
     "oncran": true
+  },
+  {
+    "package": "LSMRealOptions",
+    "oncran": true
+  },
+  {
+    "package": "NFCP",
+    "oncran": true
   }
 ]
